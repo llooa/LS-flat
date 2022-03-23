@@ -22,7 +22,7 @@ eleventyConfig.markdownTemplateEngine = 'njk';
         pathPrefix: '/LS-flat/',
         dir: {
             input: "src",
-            output: "public"
+            output: "docs"
         }
     }
 }
